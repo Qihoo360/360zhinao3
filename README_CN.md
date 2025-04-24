@@ -1,17 +1,3 @@
----
-license: apache-2.0
-language:
-- zh
-- en
-library_name: transformers
-tags:
-- qihoo360
-- 奇虎360
-- zhinao
-- 360Zhinao
-- pretrain
----
-
 <div align="center">
 <h1>
   360Zhinao3 (360智脑)
