@@ -16,7 +16,7 @@
 <br>
 
 # Introduction
- 🎉🎉🎉 **TRecently, Qihoo 360 has open sourced and upgraded its self-developed 7B parameter model 360Zhinao3-7B. It has now been launched on the Github open source community [360zhinao3](https://github.com/Qihoo360/360zhinao3) and can be used for commercial purposes free of charge. he capabilities of the model have been comprehensively improved. Compared with small parameter models with less than 10B, 360Zhinao3-7B has achieved excellent results of first place in multiple benchmarks.**
+ 🎉🎉🎉 **Recently, Qihoo 360 has open sourced and upgraded its self-developed 7B parameter model 360Zhinao3-7B. It has now been launched on the Github open source community [360zhinao3](https://github.com/Qihoo360/360zhinao3) and can be used for commercial purposes free of charge. The capabilities of the model have been comprehensively improved. Compared with small parameter models with less than 10B, 360Zhinao3-7B has achieved excellent results of first place in multiple benchmarks.**
 
  - **360Zhinao3-7B**
  - **360Zhinao3-7B-Instruct**
