@@ -61,7 +61,7 @@ Technical report is on [arXiv](https://arxiv.org/abs/2405.13386).
 
 # Model Evaluation
 ## Base Model
-WWe used the open source tool opencompass to conduct multi-dimensional evaluation of the model. The benchmark average score of the model ranks first among models with less than 10B parameters. It is competitive in the same size.
+We used the open source tool opencompass to conduct multi-dimensional evaluation of the model. The benchmark average score of the model ranks first among models with less than 10B parameters. It is competitive in the same size.
 
 <table>
 	<tr>
